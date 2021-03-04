@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\bharat.take\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\bharat.take\\.nuget\\packages"
+    ]
+  }
+}

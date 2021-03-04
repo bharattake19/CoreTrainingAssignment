@@ -1,0 +1,12 @@
+D:\Sample Application\FlightBooking\SqlRepository\bin\Debug\netstandard2.1\SqlRepository.deps.json
+D:\Sample Application\FlightBooking\SqlRepository\bin\Debug\netstandard2.1\SqlRepository.dll
+D:\Sample Application\FlightBooking\SqlRepository\bin\Debug\netstandard2.1\SqlRepository.pdb
+D:\Sample Application\FlightBooking\SqlRepository\bin\Debug\netstandard2.1\DAL.dll
+D:\Sample Application\FlightBooking\SqlRepository\bin\Debug\netstandard2.1\DAL.pdb
+D:\Sample Application\FlightBooking\SqlRepository\obj\Debug\netstandard2.1\SqlRepository.csprojAssemblyReference.cache
+D:\Sample Application\FlightBooking\SqlRepository\obj\Debug\netstandard2.1\SqlRepository.AssemblyInfoInputs.cache
+D:\Sample Application\FlightBooking\SqlRepository\obj\Debug\netstandard2.1\SqlRepository.AssemblyInfo.cs
+D:\Sample Application\FlightBooking\SqlRepository\obj\Debug\netstandard2.1\SqlRepository.csproj.CoreCompileInputs.cache
+D:\Sample Application\FlightBooking\SqlRepository\obj\Debug\netstandard2.1\SqlRepository.csproj.CopyComplete
+D:\Sample Application\FlightBooking\SqlRepository\obj\Debug\netstandard2.1\SqlRepository.dll
+D:\Sample Application\FlightBooking\SqlRepository\obj\Debug\netstandard2.1\SqlRepository.pdb
